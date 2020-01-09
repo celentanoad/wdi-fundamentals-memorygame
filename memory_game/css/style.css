@@ -98,3 +98,17 @@ footer {
 	color: #f15b31;
 	font-weight: 700;
 }
+
+button {
+	margin-top: 20px;
+	font-size: 14px;
+	border-radius: 6px;
+}
+
+#score {
+	display: inline;
+	margin-top: 20px;
+	padding: 10px 40px 10px 10px;
+	border: 2px solid;
+	border-radius: 6px;
+}
